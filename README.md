@@ -1,4 +1,4 @@
-# Bharath-Internship
+# Bharat-Intern
 STOCK PRICE PREDICTION USING LSTM:
 
 Introduction:
